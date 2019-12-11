@@ -1,0 +1,1 @@
+# resume-hexo-example
